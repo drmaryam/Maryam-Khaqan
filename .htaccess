@@ -1,0 +1,4 @@
+<Files "Copy of Travel.html">
+  Order Allow,Deny
+  Deny from all
+</Files>
