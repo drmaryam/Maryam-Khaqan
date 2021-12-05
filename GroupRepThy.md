@@ -1,8 +1,8 @@
 # Group Rep Theory
 
 ## **Lecture 1**
-
 ## **Lecture 2**
+[Lecture 2](Lec2.pdf)
 
 ## **Lecture 3**
 
