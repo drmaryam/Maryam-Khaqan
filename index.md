@@ -1,3 +1,5 @@
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 <img src="home/4d554c66845df9770a60c2219b88054b.jpg" alt="About Me"/>
 <img src="home/f57810fcb9c0cbf2e92d2492b837a06c.jpg" alt="Maryam Khaqan" width="30%"/>
 
