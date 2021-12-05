@@ -1,5 +1,5 @@
 # Maryam Khaqan
-[About Me](https://www.maryamkhaqan.com/home){: .btn}[research](https://www.maryamkhaqan.com/research){: .btn}
+[About Me](https://www.maryamkhaqan.com/home){: .btn .btn-outline }[Research](https://www.maryamkhaqan.com/research){: .btn .btn-outline }[Teaching](https://www.maryamkhaqan.com/teaching){: .btn .btn-outline }
 
 
 <img src="home/4d554c66845df9770a60c2219b88054b.jpg" alt="About Me"/>
