@@ -1,4 +1,3 @@
-# Maryam Khaqan
 [About Me](https://www.maryamkhaqan.com/home){: .btn .btn-outline }[Research](https://www.maryamkhaqan.com/research){: .btn .btn-outline }[Teaching](https://www.maryamkhaqan.com/teaching){: .btn .btn-outline }
 
 
